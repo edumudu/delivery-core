@@ -1,5 +1,5 @@
 # Delivery-core
-> Back-end of deliver system. <a href="https://github.com/edumudu/delivery-front">Front here</a>. Made with laravel 7.0
+> Back-end of deliver system. [Front here](https://github.com/edumudu/delivery-front). Made with laravel 7.0
 
 ## Using
 - PHP 7.3.15
